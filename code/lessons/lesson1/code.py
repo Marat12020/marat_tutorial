@@ -1,7 +1,2 @@
-for i in range(5):
+for i in range(50):
     print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
